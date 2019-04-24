@@ -1,0 +1,25 @@
+{
+  "name": "HW-11_Friend-Finder-Repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/knanfuri/HW-11_Friend-Finder-Repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/knanfuri/HW-11_Friend-Finder-Repo/issues"
+  },
+  "homepage": "https://github.com/knanfuri/HW-11_Friend-Finder-Repo#readme"
+}
